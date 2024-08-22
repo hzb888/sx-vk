@@ -1,0 +1,1 @@
+<view> 测试 vuex <view>{{a}}</view><button bindtap="{{b}}">Test</button><wd-button wx:if="{{d}}" u-s="{{['d']}}" bindclick="{{c}}" u-i="f83714ea-0" bind:__l="__l" u-p="{{d}}">显示遮罩层</wd-button><wd-overlay wx:if="{{f}}" bindclick="{{e}}" u-i="f83714ea-1" bind:__l="__l" u-p="{{f}}"/></view>

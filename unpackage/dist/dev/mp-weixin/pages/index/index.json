@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "wd-button": "../../uni_modules/wot-design-uni/components/wd-button/wd-button",
+    "wd-overlay": "../../uni_modules/wot-design-uni/components/wd-overlay/wd-overlay"
+  }
+}
